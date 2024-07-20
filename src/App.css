@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    @apply text-gray-800 leading-[1.4] text-[16px] h-screen;
+    background: linear-gradient(90deg, #ffffff 0, #ffffff 12%, #f2eeee 51%, #cde4cd37 100%);
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
