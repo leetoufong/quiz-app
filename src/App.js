@@ -22,11 +22,13 @@ const App = () => {
 
                 const newQuiz = [];
 
-                for (let i = 0; i <= data.length && i <= maxQuestions; i++) {
-                    const item = data[Math.floor(Math.random() * data.length)];
-                    
-                    if (!newQuiz.includes(item)) {
-                        newQuiz.push(item);
+                while (newQuiz.length < maxQuestions) {
+                    const randomNumber = Math.floor(Math.random() * data.length);
+                    const randomQuestion = data[randomNumber];
+
+                    // if (!newQuiz.filter((item) => item.question == randomQuestion.question).length) {
+                    if (!newQuiz.includes(randomQuestion)) {
+                        newQuiz.push(randomQuestion);
                     }
                 }
 
