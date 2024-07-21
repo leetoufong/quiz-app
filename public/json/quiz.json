@@ -12,7 +12,7 @@
         "answer": "Ua Tsaug",
         "description": "",
         "hint": "",
-        "images": "../images/thankyou.jpg",
+        "images": "../images/hello.jpg",
         "dynamicImage": "FALSE"
     },
     {
@@ -244,7 +244,7 @@
         "answer": "Liab",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/red.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -252,7 +252,7 @@
         "answer": "Ntsuab",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/green.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -260,7 +260,7 @@
         "answer": "Xiav",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/blue.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -268,7 +268,7 @@
         "answer": "Daj",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/yellow.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -276,7 +276,7 @@
         "answer": "Kab Ntxwv",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/orange.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -284,7 +284,7 @@
         "answer": "Tsam Xem",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/purple.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -292,7 +292,7 @@
         "answer": "Paj Yeeb",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/pink.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -300,7 +300,7 @@
         "answer": "Kas Fes",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/brown.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -308,7 +308,7 @@
         "answer": "Dub",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/black.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -316,7 +316,7 @@
         "answer": "Dawb",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/white.png",
         "dynamicImage": "TRUE"
     },
     {
@@ -324,7 +324,7 @@
         "answer": "Yawg",
         "description": "From father's side / Your father's father",
         "hint": "",
-        "images": "",
+        "images": "../images/grandpa-a.gif",
         "dynamicImage": "TRUE"
     },
     {
@@ -332,7 +332,7 @@
         "answer": "Pog",
         "description": "From father's side / Your father's mother",
         "hint": "",
-        "images": "",
+        "images": "../images/grandma-a.gif",
         "dynamicImage": "TRUE"
     },
     {
@@ -340,7 +340,7 @@
         "answer": "Yawm Txiv Laus",
         "description": "From mother's side / Your mother's father",
         "hint": "",
-        "images": "",
+        "images": "../images/grandpa-b.gif",
         "dynamicImage": "TRUE"
     },
     {
@@ -348,7 +348,7 @@
         "answer": "Niam Tais Laus",
         "description": "From mother's side / Your mother's mother",
         "hint": "",
-        "images": "",
+        "images": "../images/grandma-b.gif",
         "dynamicImage": "TRUE"
     },
     {
@@ -372,7 +372,7 @@
         "answer": "Tij Laug",
         "description": "If younger brother identifies",
         "hint": "",
-        "images": "",
+        "images": "../images/older-brother.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -380,7 +380,7 @@
         "answer": "Kwv",
         "description": "If older brother identifies",
         "hint": "",
-        "images": "",
+        "images": "../images/younger-brother.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -388,7 +388,7 @@
         "answer": "Muam",
         "description": "If younger brother identifies",
         "hint": "",
-        "images": "",
+        "images": "../images/older-sister.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -396,7 +396,7 @@
         "answer": "Muam Yau",
         "description": "If older brother identifies",
         "hint": "",
-        "images": "",
+        "images": "../images/younger-sister.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -892,7 +892,7 @@
         "answer": "Hnuv Ntses",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/fishing.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -1004,7 +1004,7 @@
         "answer": "Noj Mov",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/eating.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -1012,7 +1012,7 @@
         "answer": "Ua teb",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/gardening.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -1020,7 +1020,7 @@
         "answer": "Mus Hawj Lwm",
         "description": "",
         "hint": "",
-        "images": "",
+        "images": "../images/work.jpg",
         "dynamicImage": "TRUE"
     },
     {
@@ -1036,7 +1036,7 @@
         "answer": "Pw Tsaug Zog",
         "description": "",
         "hint": "",
-        "images": "",
-        "dynamicImage": ""
+        "images": "../images/sleeping.jpg",
+        "dynamicImage": "FALSE"
     }
 ]
