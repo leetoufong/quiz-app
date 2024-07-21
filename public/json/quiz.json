@@ -5,8 +5,15 @@
         "description": "",
         "hint": "",
         "images": "../images/hello.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
+    },
+    {
+        "question": "Thank You",
+        "answer": "Ua Tsaug",
+        "description": "",
+        "hint": "",
+        "images": "../images/thankyou.jpg",
+        "dynamicImage": "FALSE"
     },
     {
         "question": 1,
@@ -14,8 +21,7 @@
         "description": "One",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 2,
@@ -23,8 +29,7 @@
         "description": "Two",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 3,
@@ -32,8 +37,7 @@
         "description": "Three",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 4,
@@ -41,8 +45,7 @@
         "description": "Four",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 5,
@@ -50,8 +53,7 @@
         "description": "Five",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 6,
@@ -59,8 +61,7 @@
         "description": "Six",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 7,
@@ -68,8 +69,7 @@
         "description": "Seven",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 8,
@@ -77,8 +77,7 @@
         "description": "Eight",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 9,
@@ -86,8 +85,7 @@
         "description": "Nine",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 10,
@@ -95,8 +93,7 @@
         "description": "Ten",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 11,
@@ -104,8 +101,7 @@
         "description": "Eleven",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 12,
@@ -113,8 +109,7 @@
         "description": "Twelve",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 13,
@@ -122,8 +117,7 @@
         "description": "Thirteen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 14,
@@ -131,8 +125,7 @@
         "description": "Fourteen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 15,
@@ -140,8 +133,7 @@
         "description": "Fifteen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 16,
@@ -149,8 +141,7 @@
         "description": "Sixteen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 17,
@@ -158,8 +149,7 @@
         "description": "Seventeen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 18,
@@ -167,8 +157,7 @@
         "description": "Eighteen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 19,
@@ -176,8 +165,7 @@
         "description": "Nineteen",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 20,
@@ -185,8 +173,7 @@
         "description": "Twenty",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 30,
@@ -194,8 +181,7 @@
         "description": "Thirty",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 40,
@@ -203,8 +189,7 @@
         "description": "Forty",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 50,
@@ -212,8 +197,7 @@
         "description": "Fifty",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 60,
@@ -221,8 +205,7 @@
         "description": "Sixty",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 70,
@@ -230,8 +213,7 @@
         "description": "Seventy",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 80,
@@ -239,8 +221,7 @@
         "description": "Eighty",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 90,
@@ -248,8 +229,7 @@
         "description": "Ninety",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": 100,
@@ -257,8 +237,7 @@
         "description": "One Hundred",
         "hint": "",
         "images": "../images/one-hundred.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Red",
@@ -266,8 +245,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Green",
@@ -275,8 +253,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Blue",
@@ -284,8 +261,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Yellow",
@@ -293,8 +269,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Orange",
@@ -302,8 +277,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Purple",
@@ -311,8 +285,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Pink",
@@ -320,8 +293,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Brown",
@@ -329,8 +301,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Black",
@@ -338,8 +309,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "White",
@@ -347,62 +317,39 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Grandpa",
         "answer": "Yawg",
-        "description": "From father's side",
+        "description": "From father's side / Your father's father",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Grandma",
         "answer": "Pog",
-        "description": "From father's side",
+        "description": "From father's side / Your father's mother",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Grandpa",
         "answer": "Yawm Txiv Laus",
-        "description": "From mother's side / Mother's father",
+        "description": "From mother's side / Your mother's father",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Grandma",
         "answer": "Niam Tais Laus",
-        "description": "From mother's side / Mother's mother",
+        "description": "From mother's side / Your mother's mother",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
-    },
-    {
-        "question": "Great Grandpa",
-        "answer": "Yawg Koob",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
-    },
-    {
-        "question": "Great Grandma",
-        "answer": "Pog Koob",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Father / Dad",
@@ -410,8 +357,7 @@
         "description": "",
         "hint": "",
         "images": "../images/super-dad.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Mother / Mom",
@@ -419,8 +365,7 @@
         "description": "",
         "hint": "",
         "images": "../images/super-mom.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Brother / Older Brother",
@@ -428,8 +373,7 @@
         "description": "If younger brother identifies",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Brother / Younger Brother",
@@ -437,8 +381,7 @@
         "description": "If older brother identifies",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Sister / Older Sister",
@@ -446,8 +389,7 @@
         "description": "If younger brother identifies",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Sister / Younger Sister",
@@ -455,8 +397,7 @@
         "description": "If older brother identifies",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Uncle",
@@ -464,8 +405,7 @@
         "description": "If older than your father",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Aunt",
@@ -473,8 +413,7 @@
         "description": "Father's older brother's wife",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Uncle",
@@ -482,8 +421,7 @@
         "description": "If younger than your father",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Aunt",
@@ -491,8 +429,7 @@
         "description": "Father's younger brother's wife",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Aunt",
@@ -500,8 +437,7 @@
         "description": "Father's sister",
         "hint": "",
         "images": "../images/aunt.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Uncle",
@@ -509,8 +445,7 @@
         "description": "Father's sister's husband",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Uncle",
@@ -518,8 +453,7 @@
         "description": "Mother's brother",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Aunt",
@@ -527,8 +461,7 @@
         "description": "Mother's brother's wife",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Aunt",
@@ -536,8 +469,7 @@
         "description": "Mother's sister",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Uncle",
@@ -545,8 +477,7 @@
         "description": "Mother's sister's husband",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Son-in-law",
@@ -554,8 +485,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Daughter-in-law",
@@ -563,8 +493,7 @@
         "description": "Son's wife",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Daughter",
@@ -572,8 +501,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Son-in-law",
@@ -581,17 +509,15 @@
         "description": "Daughter's husband",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Grandchild",
-        "answer": "Xeeb Txwv",
+        "answer": "Xeeb Ntxwv",
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Dog",
@@ -599,8 +525,7 @@
         "description": "",
         "hint": "",
         "images": "../images/doge.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Cat",
@@ -608,8 +533,7 @@
         "description": "",
         "hint": "",
         "images": "../images/cat.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Fish",
@@ -617,8 +541,7 @@
         "description": "",
         "hint": "",
         "images": "../images/fish.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Chicken",
@@ -626,8 +549,7 @@
         "description": "",
         "hint": "",
         "images": "../images/chicken.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Duck",
@@ -635,8 +557,7 @@
         "description": "",
         "hint": "",
         "images": "../images/duck.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Cow",
@@ -644,8 +565,7 @@
         "description": "",
         "hint": "",
         "images": "../images/cow.jpg",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Pig",
@@ -653,8 +573,7 @@
         "description": "",
         "hint": "",
         "images": "../images/pig.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Turtle",
@@ -662,8 +581,7 @@
         "description": "",
         "hint": "",
         "images": "../images/turtle.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Snake",
@@ -671,8 +589,7 @@
         "description": "",
         "hint": "",
         "images": "../images/snake.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Bird",
@@ -680,8 +597,7 @@
         "description": "",
         "hint": "",
         "images": "../images/bird.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Rabbit",
@@ -689,8 +605,7 @@
         "description": "",
         "hint": "",
         "images": "../images/rabbit.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Goat",
@@ -698,8 +613,7 @@
         "description": "",
         "hint": "",
         "images": "../images/goat.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Horse",
@@ -707,8 +621,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Sheep",
@@ -716,8 +629,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Elephant",
@@ -725,8 +637,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Bat",
@@ -734,8 +645,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Monkey",
@@ -743,8 +653,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Tiger",
@@ -752,8 +661,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Bear",
@@ -761,8 +669,7 @@
         "description": "",
         "hint": "",
         "images": "../images/bear.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Frog",
@@ -770,8 +677,7 @@
         "description": "",
         "hint": "",
         "images": "../images/frog.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Human",
@@ -779,8 +685,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Bowl",
@@ -788,8 +693,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Large Bowl",
@@ -797,8 +701,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Plate / Any Plate",
@@ -806,8 +709,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Spoon",
@@ -815,8 +717,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Fork",
@@ -824,8 +725,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Knife",
@@ -833,8 +733,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Axe",
@@ -842,8 +741,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Cup",
@@ -851,17 +749,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
-    },
-    {
-        "question": "Cutting Board",
-        "answer": "Laug Cam",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Rice Cooker",
@@ -869,8 +757,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Stove / Fireplace",
@@ -878,8 +765,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Refrigerator",
@@ -887,8 +773,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Table",
@@ -896,8 +781,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Chair / Stool",
@@ -905,8 +789,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Door",
@@ -914,8 +797,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Window",
@@ -923,8 +805,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Light",
@@ -932,8 +813,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Cabinet / Drawer",
@@ -941,8 +821,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Clock",
@@ -950,8 +829,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Picture",
@@ -959,8 +837,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Mirror",
@@ -968,8 +845,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Bed",
@@ -977,8 +853,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Pillow",
@@ -986,8 +861,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Blanket",
@@ -995,35 +869,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
-    },
-    {
-        "question": "Toothbrush",
-        "answer": "Pa Txhuam Hniav",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
-    },
-    {
-        "question": "Toothpaste",
-        "answer": "Tshuaj Txhuam Hniav",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
-    },
-    {
-        "question": "Water Faucet",
-        "answer": "Kais Dej",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Sink",
@@ -1031,8 +877,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Bathtub / Shower",
@@ -1040,17 +885,7 @@
         "description": "",
         "hint": "",
         "images": "../images/bathtub.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
-    },
-    {
-        "question": "Broom",
-        "answer": "Khaub Ruab",
-        "description": "",
-        "hint": "",
-        "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Fishing",
@@ -1058,8 +893,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Boating",
@@ -1067,8 +901,7 @@
         "description": "",
         "hint": "",
         "images": "../images/boating.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Hunting",
@@ -1076,8 +909,7 @@
         "description": "",
         "hint": "",
         "images": "../images/hunting.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Soccer",
@@ -1085,8 +917,7 @@
         "description": "",
         "hint": "",
         "images": "../images/soccer.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Volleyball",
@@ -1094,8 +925,7 @@
         "description": "",
         "hint": "",
         "images": "../images/volleyball.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Swimming",
@@ -1103,8 +933,7 @@
         "description": "",
         "hint": "",
         "images": "../images/swimming.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Sewing",
@@ -1112,8 +941,7 @@
         "description": "",
         "hint": "",
         "images": "../images/sewing.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Singing",
@@ -1121,8 +949,7 @@
         "description": "",
         "hint": "",
         "images": "../images/singing.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Dancing",
@@ -1130,8 +957,7 @@
         "description": "",
         "hint": "",
         "images": "../images/dance.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Reading",
@@ -1139,8 +965,7 @@
         "description": "",
         "hint": "",
         "images": "../images/reading.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Playing",
@@ -1148,8 +973,7 @@
         "description": "",
         "hint": "",
         "images": "../images/playing.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Watching the phone",
@@ -1157,8 +981,7 @@
         "description": "",
         "hint": "",
         "images": "../images/watching-phone.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Talking on the phone",
@@ -1166,8 +989,7 @@
         "description": "",
         "hint": "",
         "images": "../images/talking-phone.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Playing games",
@@ -1175,8 +997,7 @@
         "description": "",
         "hint": "",
         "images": "../images/playing-games.jpg",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Eating / Eating Rice",
@@ -1184,8 +1005,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Gardening",
@@ -1193,8 +1013,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Go to work",
@@ -1202,8 +1021,7 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": true,
-        "isCorrect": null
+        "dynamicImage": "TRUE"
     },
     {
         "question": "Drinking water",
@@ -1211,8 +1029,7 @@
         "description": "",
         "hint": "",
         "images": "../images/drinking-water.jpg",
-        "dynamicImage": false,
-        "isCorrect": null
+        "dynamicImage": "FALSE"
     },
     {
         "question": "Sleeping",
@@ -1220,7 +1037,6 @@
         "description": "",
         "hint": "",
         "images": "",
-        "dynamicImage": "",
-        "isCorrect": null
+        "dynamicImage": ""
     }
 ]

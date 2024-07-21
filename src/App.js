@@ -25,6 +25,7 @@ const App = () => {
                 while (newQuiz.length < maxQuestions) {
                     const randomNumber = Math.floor(Math.random() * data.length);
                     const randomQuestion = data[randomNumber];
+                    randomQuestion.isCorrect = null; // add custom key/val so we can detect when a question is answered
 
                     // if (!newQuiz.filter((item) => item.question == randomQuestion.question).length) {
                     if (!newQuiz.includes(randomQuestion)) {
